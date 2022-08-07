@@ -1,6 +1,7 @@
 include ../Makefile.inc
 
-GEN_EXE = ch4/tee
+GEN_EXE = ch4/tee ch4/cp \
+			
 
 LINUX_EXE = 
 
